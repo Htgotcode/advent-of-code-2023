@@ -13,7 +13,7 @@ for line in lines:
 for i in range(0,1000):
     concatList.append(list[i][0] + list[i][-1])
     sum += int(concatList[i])
-# P2
+# P2 NEED TO ADD NUMBER TO THE END OF WORD!
 list = []
 concatList = []
 sum =0
